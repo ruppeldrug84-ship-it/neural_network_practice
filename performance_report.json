@@ -1,0 +1,12 @@
+{
+    "files_processed": 30,
+    "total_augmented_samples": 120,
+    "sequential_time_sec": 0.2983,
+    "parallel_time_sec": 0.705,
+    "speedup_ratio": "0.42x",
+    "parameters": {
+        "num_io_threads": 4,
+        "num_cpu_processes": 4,
+        "augmentations_per_image": 4
+    }
+}
